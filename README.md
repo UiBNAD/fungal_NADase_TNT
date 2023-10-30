@@ -4,7 +4,7 @@ The content of this GitHub folder refers to an article submitted to Protein Scie
 Maximum likelihood tree folder contains:
 1) .nwk file of phylogenetic tree including fungal and bacterial TNT proteins --> shown in Figure 2A, 
 2) .nwk file of phylogenetic tree including fungal TNT proteins --> shown in Figure 3A
-3) High resolution image of Figure 2A (Phylogenetic tree fungal + Bacterial TNT proteins
+3) High resolution image of Figure 2A (Phylogenetic tree fungal + Bacterial TNT proteins)
 
 Sequence alignments folder contains:
 1) MUSCLE sequence alignment of all fungal TNT protein included in Figure 3A
